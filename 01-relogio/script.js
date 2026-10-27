@@ -21,4 +21,4 @@ function corrigirHorario(numero){
 }
 
 atualizarTempo();
-setInterval(atualizarTempo, 1000); /* 1000 milisegundos = 1 segundo */
+setInterval(atualizarTempo, 1000);
