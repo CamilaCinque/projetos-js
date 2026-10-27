@@ -5,11 +5,11 @@ html, body {
 }
 
 .relogio {
-    height: 100vh; /* como se fosse 100% da altura */
+    height: 100vh; 
     display: flex;
-    flex-direction: column; /* para ficar lado a lado */
+    flex-direction: column;
     align-items: center;
-    justify-content: center; /* centralizar verticalmente */ 
+    justify-content: center;
 } 
 
 .display {
@@ -17,11 +17,11 @@ html, body {
     background-color: #fa8fb1;
     width: 300px;
     height: 200px;
-    text-align: center; /* alinhar o texto horizontalmente */
-    line-height: 200px; /* alinhar o texto verticalmente */
+    text-align: center; 
+    line-height: 200px;
     border-radius: 10px;
     color: #fff;
-    font-size: 7rem; /* 1rem = 16px */
+    font-size: 7rem; 
     border: 10px solid #F74780;
     font-family: "Qahiri", sans-serif;
     padding: 24px 48px;
